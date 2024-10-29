@@ -6,8 +6,9 @@
     <title>This is the my first git project</title>
 </head>
 <body>
-    
+
     <p>hello world</p>
+    <p>this is the new paragraph </p>
     
 </body>
 </html>
